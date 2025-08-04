@@ -6,5 +6,6 @@ class Program
     {
         
         GradeCalculator.Run();
+        TicketCalculator.Run();
     }
 }
