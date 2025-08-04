@@ -7,5 +7,6 @@ class Program
         
         GradeCalculator.Run();
         TicketCalculator.Run();
+        TriangleIdentifier.Run();
     }
 }
